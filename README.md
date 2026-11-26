@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou o Willian Lobato 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Back-end Jr | Python + IA</b><br>
-  Analista de Sistemas com visão de negócios do mercado financeiro
+  <b>Transição de carreira para Tecnologia | Python • Java • IA</b><br>
+  Quase 7 anos no mercado financeiro + base técnica em TI e Sistemas
 </p>
 
 <p align="center">
@@ -15,57 +15,54 @@
 
 ## 👨‍💻 Sobre mim
 
-Trabalho e estudo tecnologia desde os 15 anos. Tenho experiência em **TI e suporte técnico**, como **Analista de Sistemas** (levantamento de requisitos, implantação de sistemas e documentação) e mais de **6 anos no mercado financeiro**, onde cheguei a Gerente de Relacionamento PF e PJ em cooperativas de crédito.
+Profissional em transição de carreira para **Tecnologia**, com foco em **Python, Java e Inteligência Artificial**.
 
-Hoje estou direcionando minha carreira de volta para a tecnologia, unindo a **experiência técnica** com a **visão de negócios**, com foco em **Desenvolvimento Back-end com Python e Inteligência Artificial**.
+🏦 Tenho quase **7 anos de experiência no mercado financeiro**, em cooperativas de crédito como **Sicredi** e **Sicoob**, onde desenvolvi conhecimento em produtos financeiros, relacionamento com clientes, análise de processos e geração de resultados.
 
-## 🎓 Formação
+💻 Hoje aprofundo meus estudos em **Python, Java, Análise de Dados, Machine Learning, IA, APIs e Cloud Computing**, buscando unir **tecnologia e visão de negócios** para criar soluções que gerem impacto real.
 
-- 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas**, UniCesumar
-- 📚 Pós-graduação em **Engenharia de Software e Arquitetura de Sistemas** (cursando)
-- 📊 **Ciências Contábeis** (cursando)
-- 🏅 Certificação **ANBIMA CPA**
+🎓 Tecnólogo em ADS (UniCesumar) • Pós-graduando em Engenharia de Software e Arquitetura de Sistemas • Cursando Ciências Contábeis • Certificação ANBIMA CPA
 
-## 🛠️ Tecnologias
+## 🚀 Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-> Dica: adicione aqui só o que você realmente usa (por exemplo FastAPI, SQL, Docker), conforme for aprendendo.
+**Áreas:** APIs REST • Análise de Dados • Machine Learning • Automação com IA
 
-## 🌱 Foco atual
+**Em aprendizado:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-- 🐍 Desenvolvimento **back-end com Python** (APIs e banco de dados)
-- 🤖 Aplicações com **Inteligência Artificial**
-- 🏗️ Boas práticas de **arquitetura de software** (pós-graduação)
+## 📚 Atualmente estudando
 
-## 🚀 Projetos em destaque
+- 📊 Ciência de Dados e Engenharia de Dados
+- 🤖 Machine Learning e IA Generativa
+- ☁️ Cloud Computing (AWS)
+- 🌎 Inglês para Tecnologia
+
+## 🏦 Experiência de Negócio
+
+- Produtos financeiros e bancários
+- Cooperativas de crédito
+- Atendimento consultivo e relacionamento com clientes
+- Gestão de processos
+- Análise de indicadores
+
+> Esse histórico me permite entender o **problema do negócio** antes de escrever a primeira linha de código.
+
+## 📂 Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| 🔜 *Em breve* | API em Python com banco de dados | Python |
-| 🔜 *Em breve* | Projeto com IA | Python |
-| [Desafio Classificador de Herói](https://github.com/WillianLobato/dio-Forma-oLogicaDeProgramacao-DesafioDoFelipao) | Lógica de programação (DIO) | JavaScript |
-
-## 💼 Experiência resumida
-
-- **TI e Sistemas:** suporte e análise de sistemas no Grupo Móveis Romera (quase 5 anos)
-- **Mercado financeiro:** Sicredi e Sicoob (mais de 6 anos), com CRM, Salesforce, Jira, Power BI e análise de dados
-- **Diferencial:** conecto o lado técnico com a visão de negócio e o relacionamento com o cliente
+| 🔜 *Em construção* | API REST em Python com banco de dados | Python, SQL, Docker |
+| 🔜 *Em construção* | Análise de dados do mercado financeiro | Python, Pandas |
 
 ## 🤝 Vamos conversar?
 
-Aberto a oportunidades como **Desenvolvedor Back-end Jr (Python)** e a conexões com profissionais da área.
+Aberto a oportunidades na área de tecnologia e a conexões com outros profissionais.
 
 📍 Arapongas, PR  
 🔗 [linkedin.com/in/willianlobato](https://www.linkedin.com/in/willianlobato/)
-
----
-
-<p align="center">
-  <i>"Aprendizado contínuo, colaboração e inovação."</i>
-</p>
