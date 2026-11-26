@@ -1,68 +1,183 @@
-<h1 align="center">Olá, eu sou o Willian Lobato 👋</h1>
+<h1 align="center">Willian Lobato dos Santos</h1>
 
 <p align="center">
-  <b>Transição de carreira para Tecnologia | Python • Java • IA</b><br>
-  Quase 7 anos no mercado financeiro + base técnica em TI e Sistemas
+AI Developer • Python • Machine Learning • Agentic AI
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/willianlobato/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+Construindo soluções inteligentes com Inteligência Artificial, Automação e Dados para transformar processos e gerar valor para o negócio.
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 Sobre Mim
 
-Profissional em transição de carreira para **Tecnologia**, com foco em **Python, Java e Inteligência Artificial**.
+Sou um profissional com quase 7 anos de experiência no mercado financeiro, atuando em instituições como Sicredi e Sicoob.
 
-🏦 Tenho quase **7 anos de experiência no mercado financeiro**, em cooperativas de crédito como **Sicredi** e **Sicoob**, onde desenvolvi conhecimento em produtos financeiros, relacionamento com clientes, análise de processos e geração de resultados.
+Atualmente estou direcionando minha carreira para Inteligência Artificial, Desenvolvimento Python e Automação Inteligente, combinando conhecimento de negócio com tecnologias modernas para construir soluções capazes de apoiar decisões, otimizar processos e aumentar a produtividade.
 
-💻 Hoje aprofundo meus estudos em **Python, Java, Análise de Dados, Machine Learning, IA, APIs e Cloud Computing**, buscando unir **tecnologia e visão de negócios** para criar soluções que gerem impacto real.
+Tenho como foco o desenvolvimento de aplicações baseadas em IA Generativa, Agentes de IA, Machine Learning e Automação, utilizando Python como principal linguagem.
 
-🎓 Tecnólogo em ADS (UniCesumar) • Pós-graduando em Engenharia de Software e Arquitetura de Sistemas • Cursando Ciências Contábeis • Certificação ANBIMA CPA
+---
 
-## 🚀 Tecnologias e Ferramentas
+## 🎯 Especialidades
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+- Inteligência Artificial
+- IA Generativa
+- Agentes de IA
+- Python
+- Machine Learning
+- Análise de Dados
+- Automação Inteligente
+- APIs REST
+- Engenharia de Prompt
+- Soluções para o Mercado Financeiro
 
-**Áreas:** APIs REST • Análise de Dados • Machine Learning • Automação com IA
+---
 
-**Em aprendizado:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+## 🤖 Stack de IA
 
-## 📚 Atualmente estudando
+### Linguagens
 
-- 📊 Ciência de Dados e Engenharia de Dados
-- 🤖 Machine Learning e IA Generativa
-- ☁️ Cloud Computing (AWS)
-- 🌎 Inglês para Tecnologia
+- Python
+- SQL
+- Java (em desenvolvimento)
 
-## 🏦 Experiência de Negócio
+### Inteligência Artificial
 
-- Produtos financeiros e bancários
-- Cooperativas de crédito
-- Atendimento consultivo e relacionamento com clientes
-- Gestão de processos
-- Análise de indicadores
+- OpenAI
+- Microsoft Copilot
+- Engenharia de Prompt
+- Agentes de IA
+- CrewAI
+- MCP (Model Context Protocol)
+- IA Generativa
 
-> Esse histórico me permite entender o **problema do negócio** antes de escrever a primeira linha de código.
+### Dados & Machine Learning
 
-## 📂 Projetos em destaque
+- Pandas
+- NumPy
+- Scikit-Learn
+- Análise Exploratória de Dados
+- Modelagem Preditiva
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| 🔜 *Em construção* | API REST em Python com banco de dados | Python, SQL, Docker |
-| 🔜 *Em construção* | Análise de dados do mercado financeiro | Python, Pandas |
+### Cloud & Ferramentas
 
-## 🤝 Vamos conversar?
+- Git
+- GitHub
+- Docker
+- AWS (em aprendizado)
+- VS Code
+- Jupyter Notebook
 
-Aberto a oportunidades na área de tecnologia e a conexões com outros profissionais.
+---
 
-📍 Arapongas, PR  
-🔗 [linkedin.com/in/willianlobato](https://www.linkedin.com/in/willianlobato/)
+## 🚀 Atualmente Estudando
+
+### AI Developer Track (DIO)
+
+- Agentes de IA
+- CrewAI
+- MCP
+- Microsoft Copilot
+- SQL para IA
+- Python aplicado à IA
+
+### Bootcamp Bradesco
+
+**Agentes de IA do Zero à Prática**
+
+Projetando agentes autônomos capazes de:
+
+- Interpretar objetivos
+- Consultar bases de dados
+- Executar tarefas
+- Integrar sistemas externos
+- Automatizar processos de negócio
+
+### Bootcamp Itaú
+
+**Java com Inteligência Artificial**
+
+Desenvolvimento de aplicações Java integradas com IA Generativa utilizando:
+
+- Java
+- Spring Boot
+- APIs
+- Reconhecimento de voz
+- Integração com IA
+
+---
+
+## 📂 Projetos em Destaque
+
+### 🤖 AI Financial Agent
+
+Agente Inteligente para apoio à tomada de decisão financeira utilizando IA Generativa e Python.
+
+### 📊 Transaction Anomaly Detection
+
+Detecção de padrões anômalos em transações financeiras utilizando Machine Learning.
+
+### 🔗 MCP Financial Assistant
+
+Assistente conectado a serviços externos através do Model Context Protocol (MCP).
+
+### 📈 Financial Data Analysis
+
+Análise de dados financeiros utilizando Python, Pandas e visualização de dados.
+
+---
+
+## 🏦 Expertise de Negócio
+
+Minha experiência anterior agrega contexto real para construção de soluções de IA:
+
+- Produtos Financeiros
+- Produtos Bancários
+- Cooperativas de Crédito
+- Relacionamento com Clientes
+- Análise de Processos
+- Indicadores de Desempenho
+- Tomada de Decisão
+
+Acredito que a Inteligência Artificial gera maior impacto quando aplicada para resolver problemas reais de negócio.
+
+---
+
+## 📚 Formação
+
+🎓 Análise e Desenvolvimento de Sistemas
+
+🎓 Pós-graduação em Engenharia de Software e Arquitetura de Sistemas
+
+🎓 Ciências Contábeis (em andamento)
+
+📜 Certificação ANBIMA CPA
+
+---
+
+## 🌎 Objetivo Profissional
+
+Atuar em projetos relacionados a:
+
+- AI Developer
+- AI Engineer
+- Machine Learning
+- Inteligência Artificial Generativa
+- Agentes de IA
+- Automação Inteligente
+- Soluções Financeiras Baseadas em IA
+
+---
+
+## 📫 Conecte-se Comigo
+
+💼 LinkedIn  
+www.linkedin.com/in/willianlobato
+
+📍 Paraná - Brasil
+
+---
+
+> "A próxima evolução do software não é apenas automatizar tarefas. É criar sistemas capazes de raciocinar, agir e gerar valor de forma autônoma."
