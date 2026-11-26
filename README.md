@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Willian Lobato 👋</h1>
 
 <p align="center">
-  <b>Transição de carreira para Tecnologia | Python • Java • IA</b><br>
+  <b>Transição de carreira para Tecnologia | Desenvolvedor de Software Python • Java • IA</b><br>
   Quase 7 anos no Mercado Financeiro (2020-2026) + 5 anos Analista e Suporte em TI e Sistemas (2015 - 2020)
 </p>
 
