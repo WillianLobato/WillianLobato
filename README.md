@@ -1,183 +1,141 @@
 <h1 align="center">Willian Lobato dos Santos</h1>
 
 <p align="center">
-AI Developer • Python • Machine Learning • Agentic AI
+  <strong>Desenvolvedor de Sistemas Júnior | Inteligência Artificial | Python | Java</strong><br>
+  <em>Junior Software Developer | Artificial Intelligence | Python | Java</em>
 </p>
 
 <p align="center">
-Construindo soluções inteligentes com Inteligência Artificial, Automação e Dados para transformar processos e gerar valor para o negócio.
+  Transformando conhecimento de negócio em soluções orientadas por dados e inteligência artificial.<br>
+  <em>Transforming business knowledge into data-driven and AI-powered solutions.</em>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Sou um profissional com quase 7 anos de experiência no mercado financeiro, atuando em instituições como Sicredi e Sicoob.
+Sou um profissional em transição para a área de Tecnologia, com foco em Desenvolvimento de Software, Inteligência Artificial e Análise de Dados. Busco combinar minha experiência no mercado financeiro com soluções tecnológicas que gerem impacto real para empresas e clientes.
 
-Atualmente estou direcionando minha carreira para Inteligência Artificial, Desenvolvimento Python e Automação Inteligente, combinando conhecimento de negócio com tecnologias modernas para construir soluções capazes de apoiar decisões, otimizar processos e aumentar a produtividade.
+*I am a professional transitioning into the Technology field, focused on Software Development, Artificial Intelligence, and Data Analytics. My goal is to combine financial industry experience with technology solutions that create real impact for businesses and customers.*
 
-Tenho como foco o desenvolvimento de aplicações baseadas em IA Generativa, Agentes de IA, Machine Learning e Automação, utilizando Python como principal linguagem.
+Possuo quase 7 anos de experiência no setor financeiro, atuando em cooperativas de crédito como Sicredi e Sicoob, desenvolvendo conhecimentos em produtos financeiros, relacionamento com clientes, melhoria de processos e análise de resultados.
 
----
+*I have nearly 7 years of experience in the financial services industry, working at credit cooperatives such as Sicredi and Sicoob, developing expertise in financial products, customer relationships, process improvement, and business performance analysis.*
 
-## 🎯 Especialidades
+Atualmente, estou construindo minha trajetória técnica através de projetos, bootcamps e estudos focados em Python, Inteligência Artificial, Machine Learning, APIs, Cloud Computing e desenvolvimento de software.
 
-- Inteligência Artificial
-- IA Generativa
-- Agentes de IA
-- Python
-- Machine Learning
-- Análise de Dados
-- Automação Inteligente
-- APIs REST
-- Engenharia de Prompt
-- Soluções para o Mercado Financeiro
+*Currently, I am building my technical career through projects, bootcamps, and studies focused on Python, Artificial Intelligence, Machine Learning, APIs, Cloud Computing, and Software Development.*
 
 ---
 
-## 🤖 Stack de IA
+## 🚀 Tecnologias e Ferramentas
 
-### Linguagens
-
+### Linguagens de Programação
 - Python
+- Java
 - SQL
-- Java (em desenvolvimento)
 
-### Inteligência Artificial
-
-- OpenAI
-- Microsoft Copilot
-- Engenharia de Prompt
+### Inteligência Artificial & Dados
+- Inteligência Artificial Generativa
 - Agentes de IA
-- CrewAI
-- MCP (Model Context Protocol)
-- IA Generativa
-
-### Dados & Machine Learning
-
+- Machine Learning
 - Pandas
 - NumPy
-- Scikit-Learn
-- Análise Exploratória de Dados
-- Modelagem Preditiva
+- Engenharia de Prompt
+- Microsoft Copilot
+- CrewAI
+- MCP (Model Context Protocol)
 
-### Cloud & Ferramentas
-
+### Desenvolvimento
+- APIs REST
 - Git
 - GitHub
 - Docker
+- Spring Boot (em aprendizado)
+
+### Cloud
 - AWS (em aprendizado)
-- VS Code
-- Jupyter Notebook
 
 ---
 
-## 🚀 Atualmente Estudando
+## 📚 Em Aprendizado
 
-### AI Developer Track (DIO)
+### Bradesco Bootcamp - Agentes de IA do Zero à Prática
 
-- Agentes de IA
-- CrewAI
-- MCP
-- Microsoft Copilot
-- SQL para IA
-- Python aplicado à IA
+Desenvolvimento de agentes inteligentes utilizando Python, SQL, Microsoft Copilot, CrewAI, MCP e IA Generativa.
 
-### Bootcamp Bradesco
+*Development of intelligent agents using Python, SQL, Microsoft Copilot, CrewAI, MCP, and Generative AI.*
 
-**Agentes de IA do Zero à Prática**
+### Itaú Bootcamp - Java com Inteligência Artificial
 
-Projetando agentes autônomos capazes de:
+Construção de aplicações Java integradas com IA, APIs e arquitetura moderna de software.
 
-- Interpretar objetivos
-- Consultar bases de dados
-- Executar tarefas
-- Integrar sistemas externos
-- Automatizar processos de negócio
-
-### Bootcamp Itaú
-
-**Java com Inteligência Artificial**
-
-Desenvolvimento de aplicações Java integradas com IA Generativa utilizando:
-
-- Java
-- Spring Boot
-- APIs
-- Reconhecimento de voz
-- Integração com IA
+*Building Java applications integrated with AI, APIs, and modern software architecture.*
 
 ---
 
-## 📂 Projetos em Destaque
-
-### 🤖 AI Financial Agent
-
-Agente Inteligente para apoio à tomada de decisão financeira utilizando IA Generativa e Python.
-
-### 📊 Transaction Anomaly Detection
-
-Detecção de padrões anômalos em transações financeiras utilizando Machine Learning.
-
-### 🔗 MCP Financial Assistant
-
-Assistente conectado a serviços externos através do Model Context Protocol (MCP).
-
-### 📈 Financial Data Analysis
-
-Análise de dados financeiros utilizando Python, Pandas e visualização de dados.
-
----
-
-## 🏦 Expertise de Negócio
-
-Minha experiência anterior agrega contexto real para construção de soluções de IA:
+## 🏦 Experiência de Negócio
 
 - Produtos Financeiros
 - Produtos Bancários
 - Cooperativas de Crédito
 - Relacionamento com Clientes
-- Análise de Processos
-- Indicadores de Desempenho
-- Tomada de Decisão
+- Gestão de Processos
+- Análise de Indicadores
 
-Acredito que a Inteligência Artificial gera maior impacto quando aplicada para resolver problemas reais de negócio.
-
----
-
-## 📚 Formação
-
-🎓 Análise e Desenvolvimento de Sistemas
-
-🎓 Pós-graduação em Engenharia de Software e Arquitetura de Sistemas
-
-🎓 Ciências Contábeis (em andamento)
-
-📜 Certificação ANBIMA CPA
+*Financial Products • Banking Services • Credit Cooperatives • Customer Relationship Management • Process Management • Performance Metrics Analysis*
 
 ---
 
-## 🌎 Objetivo Profissional
+## 📂 Projetos em Desenvolvimento
 
-Atuar em projetos relacionados a:
+### 🤖 AI Financial Agent
+Agente inteligente para apoio à tomada de decisão financeira.
 
-- AI Developer
-- AI Engineer
-- Machine Learning
-- Inteligência Artificial Generativa
-- Agentes de IA
-- Automação Inteligente
-- Soluções Financeiras Baseadas em IA
+*Intelligent agent designed to support financial decision-making.*
+
+### 📊 Financial Data Analytics
+Análise de dados aplicada ao mercado financeiro.
+
+*Data analytics applied to financial services.*
+
+### 🔗 Banking API
+API REST desenvolvida para simular operações financeiras.
+
+*REST API developed to simulate banking operations.*
 
 ---
 
-## 📫 Conecte-se Comigo
+## 🎓 Formação
+
+- Tecnólogo em Análise e Desenvolvimento de Sistemas
+- Pós-graduação em Engenharia de Software e Arquitetura de Sistemas
+- Ciências Contábeis (em andamento)
+- Certificação ANBIMA CPA
+
+---
+
+## 🎯 Objetivo Profissional
+
+Atuar como Desenvolvedor de Sistemas, Desenvolvedor Python, AI Developer ou Analista de Dados, contribuindo para projetos que utilizem tecnologia para resolver desafios reais de negócio.
+
+*To work as a Software Developer, Python Developer, AI Developer, or Data Analyst, contributing to projects that use technology to solve real business challenges.*
+
+---
+
+## 🌐 Contato
+
+📍 Arapongas - Paraná - Brasil
 
 💼 LinkedIn  
-www.linkedin.com/in/willianlobato
+https://www.linkedin.com/in/willianlobato
 
-📍 Paraná - Brasil
+📧 Sempre aberto para networking e oportunidades na área de tecnologia.
+
+*Always open to networking and opportunities in the technology field.*
 
 ---
 
-> "A próxima evolução do software não é apenas automatizar tarefas. É criar sistemas capazes de raciocinar, agir e gerar valor de forma autônoma."
+> "A tecnologia tem mais valor quando resolve problemas reais."
+>
+> *"Technology delivers its greatest value when it solves real-world problems."*
