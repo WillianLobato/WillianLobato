@@ -1,158 +1,179 @@
-<div align="center">
+# 👋 Olá! Eu sou Willian Lobato
 
-  <!-- Opcional: Banner personalizado (substitua pela URL da sua imagem, se desejar) -->
-  <!-- <img src="SUA_URL_DE_BANNER_AQUI" alt="Banner Willian Lobato" width="100%" /> -->
+### Software Development | Python | Artificial Intelligence
 
-  <h1>Willian Lobato dos Santos</h1>
+**Transformando conhecimento de negócio em soluções tecnológicas.**
 
-  <p>
-    <strong>Desenvolvedor de Sistemas Júnior • Inteligência Artificial • Python • Java</strong><br>
-    <em>Junior Software Developer • Artificial Intelligence • Python • Java</em>
-  </p>
+Profissional de tecnologia com formação em Análise e Desenvolvimento de Sistemas e experiência em TI, sistemas e mercado financeiro. Atualmente direciono minha carreira para o desenvolvimento de software, com foco em **Python, Inteligência Artificial e Engenharia de Software**.
 
-  <p>
-    Traduzindo 7 anos de inteligência de negócio financeiro em arquiteturas orientadas a dados e agentes de IA.<br>
-    <em>Translating 7 years of financial business intelligence into data-driven architectures and AI agents.</em>
-  </p>
-
-  <!-- Badges de Contato e Localização -->
-  <p>
-    <a href="https://www.linkedin.com/in/willianlobato" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:SEU_EMAIL_AQUI">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="SEU_LINK_PORTFOLIO_OU_CURRÍCULO_AQUI" target="_blank">
-      <img src="https://img.shields.io/badge/Portfólio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio" />
-    </a>
-    <img src="https://img.shields.io/badge/Arapongas%20--%20PR,%20Brasil-009739?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização" />
-  </p>
-
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/willianlobato/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-7B61FF?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
+</p>
 
 ---
 
-### 💡 Visão Geral | *Overview*
+## 🇧🇷 Sobre mim | About Me
 
-> *"A tecnologia tem mais valor quando resolve problemas reais."*  
-> *"Technology delivers its greatest value when it solves real-world problems."*
+Minha trajetória profissional combina tecnologia, análise de sistemas e experiência de negócio.
 
-Profissional em transição para Engenharia de Software e Inteligência Artificial, unindo **quase 7 anos de vivência no setor financeiro** (cooperativas de crédito **Sicredi** e **Sicoob**) com desenvolvimento de sistemas, automação e análise de dados.
+Iniciei minha carreira na área de tecnologia, atuando por aproximadamente cinco anos no Grupo Móveis Romera, com atividades relacionadas a suporte técnico de TI, análise de sistemas, levantamento de requisitos, implantação de sistemas e documentação.
 
-*Professional transitioning into Software Engineering and Artificial Intelligence, combining **nearly 7 years of financial sector experience** (**Sicredi** and **Sicoob** credit cooperatives) with software development, automation, and data analytics.*
+Posteriormente, construí uma trajetória de mais de seis anos no mercado financeiro, atuando no Sicredi e no Sicoob, com experiência em relacionamento com clientes PF e PJ, produtos financeiros, análise de indicadores, processos e soluções de negócio.
 
-* **Foco Atual / *Current Focus*:** Desenvolvimento de Agentes de IA, APIs RESTful, pipelines de dados e integrações em nuvem.
-* **Diferencial de Negócio / *Domain Edge*:** Domínio de produtos bancários, análise de indicadores de risco/performance, compliance (ANBIMA CPA) e melhoria de processos financeiros.
-* **Objetivo / *Target Roles*:** Desenvolvedor de Sistemas Júnior, Python Developer, AI Developer ou Analista de Dados.
+Atualmente, estou direcionando minha experiência para o desenvolvimento de soluções tecnológicas, buscando unir conhecimento técnico e visão de negócio para resolver problemas reais.
 
----
+**Minha direção profissional:**
+- Desenvolvimento Back-end com Python.
+- Inteligência Artificial e aplicações com IA generativa.
+- Automação e integração de sistemas.
+- APIs e desenvolvimento de software.
+- Engenharia de Software e arquitetura de sistemas.
 
-### 🛠️ Stack Tecnológica | *Tech Stack*
+### 🇺🇸 About Me
 
-<div align="center">
+Technology professional with a degree in Systems Analysis and Development and professional experience in IT, systems analysis, technical support, and financial services.
 
-#### Linguagens & Dados | *Languages & Data*
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+My background includes approximately five years in IT at Grupo Móveis Romera and more than six years in the financial industry, working with Sicredi and Sicoob.
 
-#### Inteligência Artificial & Agentes | *AI & Autonomous Agents*
-<img src="https://img.shields.io/badge/Generative_AI-8E44AD?style=flat-square&logo=openai&logoColor=white" alt="GenAI" />
-<img src="https://img.shields.io/badge/CrewAI-FF5733?style=flat-square" alt="CrewAI" />
-<img src="https://img.shields.io/badge/MCP_(Model_Context_Protocol)-1F2937?style=flat-square" alt="MCP" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-00A88F?style=flat-square" alt="Prompt Engineering" />
-<img src="https://img.shields.io/badge/Microsoft_Copilot-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Copilot" />
+I am currently transitioning my career towards software development, focusing on **Python, Artificial Intelligence, Back-end Development, and Software Engineering**.
 
-#### Backend, Cloud & DevOps *(incluindo ferramentas em estudo)*
-<img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
-<img src="https://img.shields.io/badge/Spring_Boot_(Learning)-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/AWS_(Learning)-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-
-</div>
+My goal is to combine technical knowledge and business experience to build practical solutions that solve real-world problems.
 
 ---
 
-### 📂 Projetos em Destaque | *Featured Projects*
+## 🛠️ Tecnologias e Ferramentas | Tech Stack
 
-> 💡 *Substitua os links e métricas abaixo conforme seus repositórios forem publicados.*
+### Linguagens e Desenvolvimento | Programming
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🤖 AI Financial Agent</h4>
-      <p>Agente autônomo para apoio à tomada de decisão financeira e análise de carteira.<br><em>Autonomous agent supporting financial decision-making.</em></p>
-      <p><code>Python</code> <code>CrewAI</code> <code>MCP</code> <code>GenAI</code></p>
-      <a href="LINK_DO_REPOSITORIO_1">🔗 Ver Repositório</a> • <a href="LINK_DEMO_1">🚀 Demo</a>
-    </td>
-    <td width="33%" valign="top">
-      <h4>📊 Financial Data Analytics</h4>
-      <p>Pipelines de ETL e análise exploratória de indicadores do mercado financeiro.<br><em>ETL pipelines and exploratory analysis of financial KPIs.</em></p>
-      <p><code>Python</code> <code>Pandas</code> <code>SQL</code> <code>NumPy</code></p>
-      <a href="LINK_DO_REPOSITORIO_2">🔗 Ver Repositório</a> • <a href="LINK_DASHBOARD_2">📈 Análise</a>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🔗 Banking API</h4>
-      <p>API RESTful simulando operações bancárias, transações e regras de crédito.<br><em>RESTful API simulating banking operations and credit rules.</em></p>
-      <p><code>Java</code> <code>Spring Boot</code> <code>REST</code> <code>Docker</code></p>
-      <a href="LINK_DO_REPOSITORIO_3">🔗 Ver Repositório</a> • <a href="LINK_DOCS_3">📄 Swagger</a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
----
+### Ferramentas | Tools
 
-### 🎓 Formação, Certificações & Bootcamps | *Education & Training*
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+</p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎓 Formação Acadêmica & Mercado</h4>
-      <ul>
-        <li><strong>Pós-graduação</strong> em Engenharia de Software e Arquitetura de Sistemas</li>
-        <li><strong>Tecnólogo</strong> em Análise e Desenvolvimento de Sistemas</li>
-        <li><strong>Bacharelado</strong> em Ciências Contábeis <em>(em andamento)</em></li>
-        <li><strong>Certificação ANBIMA CPA</strong> — Mercado Financeiro</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🚀 Especialização Técnica (Bootcamps)</h4>
-      <ul>
-        <li>
-          <strong>Bradesco Bootcamp — Agentes de IA do Zero à Prática</strong><br>
-          <sub>Orquestração de agentes com Python, SQL, CrewAI, MCP e Copilot.</sub>
-        </li>
-        <li>
-          <strong>Itaú Bootcamp — Java com Inteligência Artificial</strong><br>
-          <sub>Arquitetura moderna de software, APIs e integração de IA no ecossistema Java.</sub>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### Inteligência Artificial | Artificial Intelligence
+
+- IA generativa e aplicações com inteligência artificial.
+- Fundamentos de Inteligência Artificial.
+- Engenharia de prompts.
+- Análise de dados com ferramentas de IA.
+- Planejamento e desenvolvimento de aplicações com IA.
 
 ---
 
-### 📈 Métricas no GitHub | *GitHub Analytics*
+## 📚 Aprendizado Contínuo | Currently Learning
 
-> ⚠️ **Atenção:** Substitua `SEU_USUARIO_GITHUB` pelo seu username exato (ex: `willianlobato`) para carregar seus dados reais automaticamente.
+Minha evolução técnica está direcionada à construção de uma base sólida em desenvolvimento de software e inteligência artificial.
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+| Área | Objetivo |
+|---|---|
+| Python | Lógica, estruturas de dados, funções e orientação a objetos |
+| Back-end | APIs, integração de sistemas e persistência de dados |
+| Inteligência Artificial | Aplicações práticas e integração de modelos de IA |
+| Engenharia de Software | Arquitetura, qualidade e boas práticas de desenvolvimento |
+| Git e GitHub | Versionamento e colaboração em projetos |
 
 ---
 
-<div align="center">
-  <sub>Aberto a oportunidades como Desenvolvedor Júnior, AI Developer ou Analista de Dados • Vamos conectar no <a href="https://www.linkedin.com/in/willianlobato">LinkedIn</a>!</sub>
-</div>
+## 🚀 Projetos | Projects
+
+Acredito que a melhor maneira de aprender desenvolvimento de software é construindo projetos e resolvendo problemas.
+
+### 🐍 Python
+
+**Controle Financeiro Pessoal**
+- Aplicação de terminal para gerenciamento de receitas e despesas.
+- Cadastro e listagem de movimentações financeiras.
+- Consulta de saldo e resumo financeiro.
+- Aplicação de lógica de programação, funções e estruturas de dados.
+
+*Status: Em desenvolvimento.*
+
+### 💻 JavaScript
+
+**Desafio Classificador de Herói — DIO**
+
+Projeto de lógica de programação desenvolvido durante os estudos na plataforma DIO.
+
+- Classificação de personagens de acordo com sua experiência (XP).
+- Aplicação de estruturas condicionais.
+- Prática de lógica de programação com JavaScript.
+
+🔗 [Acessar repositório](https://github.com/WillianLobato/dio-Forma-oLogicaDeProgramacao-DesafioDoFelipao)
+
+---
+
+## 🎓 Formação Acadêmica | Education
+
+- **Análise e Desenvolvimento de Sistemas** — UniCesumar (2019–2022).
+- **Pós-graduação em Engenharia de Software e Arquitetura de Sistemas** — UniCesumar (em andamento).
+
+## 🏅 Certificações e Formação Complementar | Certifications
+
+- **Google AI Professional Certificate** — Google (2026).
+- **Python Fundamentals** — DIO (26 horas).
+- **CPA** — ANBIMA.
+
+---
+
+## 💼 Experiência Profissional | Professional Experience
+
+| Organização | Área | Experiência |
+|---|---|---|
+| Grupo Móveis Romera | Tecnologia da Informação | Suporte técnico, sistemas e documentação |
+| Sicredi | Mercado Financeiro | Relacionamento PF/PJ e soluções financeiras |
+| Sicoob | Mercado Financeiro | Gestão de relacionamento e negócios PF |
+
+**Diferencial profissional:** experiência combinada em tecnologia e mercado financeiro, com capacidade de compreender necessidades de negócio e transformá-las em oportunidades de soluções tecnológicas.
+
+---
+
+## 🎯 Objetivo Profissional | Career Goals
+
+Busco oportunidades na área de tecnologia, especialmente em:
+
+- Python Developer.
+- Back-end Developer.
+- Software Developer.
+- AI Developer.
+- Desenvolvimento de soluções com Inteligência Artificial.
+
+Tenho interesse em ambientes que valorizem aprendizado contínuo, colaboração, inovação e desenvolvimento de soluções com impacto real.
+
+---
+
+## 🤝 Vamos nos conectar? | Let's Connect!
+
+Estou aberto a conexões profissionais, troca de conhecimentos e oportunidades na área de tecnologia.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/willianlobato/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/WillianLobato" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Acompanhe-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"A tecnologia tem mais valor quando resolve problemas reais."</i>
+  <br />
+  <i>"Technology delivers its greatest value when it solves real-world problems."</i>
+</p>
