@@ -21,7 +21,7 @@ Profissional em transição de carreira para **Tecnologia**, com foco em **Pytho
 
 💻 Hoje aprofundo meus estudos em **Python, Java, Análise de Dados, Machine Learning, IA, APIs e Cloud Computing**, buscando unir **tecnologia e visão de negócios** para criar soluções que gerem impacto real.
 
-🎓 Tecnólogo em ADS (UniCesumar) • Pós-graduando em Engenharia de Software e Arquitetura de Sistemas • Cursando Ciências Contábeis • Certificação ANBIMA CPA
+🎓 Graduado em ADS (UniCesumar) • Pós-graduando em Engenharia de Software e Arquitetura de Sistemas • Cursando Ciências Contábeis • Certificação ANBIMA CPA
 
 ## 🚀 Tecnologias e Ferramentas
 
