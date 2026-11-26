@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Transição de carreira para Tecnologia | Python • Java • IA</b><br>
-  Quase 7 anos no mercado financeiro + base técnica em TI e Sistemas
+  Quase 7 anos no Mercado Financeiro (2020-2026) + 5 anos Analista e Suporte em TI e Sistemas (2015 - 2020)
 </p>
 
 <p align="center">
