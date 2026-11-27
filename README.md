@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Desenvolvedor de Software em formação | Python • Java • IA • Dados</b><br>
-  Transição de carreira do setor financeiro para tecnologia (~7 anos em cooperativas de crédito e +5 anos em TI)
+  Transição de carreira do setor financeiro para tecnologia (~7 anos em banco cooperativas (setor financeiro) e +5 anos em TI)
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ Combino experiência em **negócios financeiros** e **tecnologia** para construi
 
 ## 🤝 Vamos conversar
 
-Aberto a oportunidades como **Desenvolvedor Júnior (Python / Java / IA)** ou **Analista de Dados** (presencial/híbrido na região de Londrina–Arapongas ou remoto).
+Aberto a oportunidades como **Desenvolvedor Júnior (Python / Java / IA / Analista de Dados)** (presencial/híbrido na região de Londrina–Arapongas ou remoto).
 
-* 📍 Arapongas / Londrina — PR
+* 📍 Arapongas / Londrina / Maringá — PR
 * 💼 [linkedin.com/in/willianlobato](https://www.linkedin.com/in/willianlobato/)
