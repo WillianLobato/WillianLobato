@@ -32,14 +32,28 @@ Profissional com bagagem dupla em **Tecnologia** e **Mercado Financeiro**, focad
 
 🎓 Graduado em Análise e Desenvolvimento de Sistemas (UniCesumar) • Pós-graduando em Engenharia de Software e Arquitetura de Sistemas • Certificação ANBIMA CPA
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Stack e Trilha de Formação
 
+> Em transição de carreira para desenvolvimento de software, estudando de forma estruturada e construindo projetos práticos ao longo da jornada.
+
+### 🎯 Foco principal
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🛠️ Base e ferramentas
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 📖 Em estudo
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_(básico)-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square)
+
+**Áreas:** APIs REST • Análise de Dados • IA Generativa e Agentes • Automação com IA
 
 **Áreas:** APIs REST • Análise de Dados • Automação com IA • Suporte e Manutenção de Sistemas
 
